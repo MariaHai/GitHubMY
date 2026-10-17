@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 djkfbdskjbfDHello develops
 asgdajhdajhd
 hjdgjfbj
 dhfjhsdfks
+=======
+djkfbdskjbf
+Hello develops
+
+djkfskjhf
+shdjgfhsdjg
+>>>>>>> dev
